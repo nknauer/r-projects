@@ -1,0 +1,32 @@
+---
+title: "Spotify New Releases"
+date: "`r format(Sys.time(), '%d %B %Y')`"
+---
+```{r setup, include=FALSE}
+library(httr)
+library(jsonlite)
+library(DT)
+library(dplyr)
+library(twitteR)
+library(syuzhet)
+library(scales)
+library(readr)
+```
+
+```{r, echo=FALSE, include=FALSE}
+new_releases<-read_csv("testing.csv")
+new_releases<-new_releases[order(-new_releases$`Recent Twitter Sentiment`),]
+new_releases$`Recent Twitter Sentiment`<-percent(new_releases$`Recent Twitter Sentiment`)
+new_releases$New_Link <- paste0("<a href='",new_releases$`Genius Lyrics Link`,"' target='_blank'>",new_releases$`Genius Lyrics Link`,"</a>")
+new_releases<-new_releases[,-3]
+colnames(new_releases)[5]<-"Genius Lyrics Link"
+colnames(new_releases)[1]<-"Track Name"
+colnames(new_releases)[2]<-"Artist Name"
+colnames(new_releases)[3]<-"Twitter Handle"
+colnames(new_releases)[4]<-"Recent Tweet Sentiment About Artist"
+```
+
+```{r,echo=FALSE}
+datatable(new_releases, escape = FALSE)
+```
+

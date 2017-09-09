@@ -1,0 +1,20 @@
+---
+title: "Nick's R Projects Website"
+---
+
+Some Projects I am working on utilize API's from the following companies: Spotify, Genius Lyrics, and Twitter.
+
+Hope you enjoy! Will be updating the "Projects" tab every Friday before 12PM EST.
+
+Spotify:
+
+![](spotify.jpg)
+
+Genius Lyrics: 
+
+![](genius.jpg)
+
+Twitter: 
+
+![](twitter.jpg)
+

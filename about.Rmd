@@ -1,0 +1,14 @@
+---
+title: "About Me"
+---
+
+- __Name:__ Nick Knauer
+- __Email:__ nickknauer1@gmail.com
+- __Hometown:__ Greater New York City Area
+- __School:__ Penn State University
+- __Ocupation:__ Senior Analyst, Advanced Analytics
+- __Industry:__ Advertising/Marketing
+
+I have been programming in R since 2014 and have enjoyed what this language is capable of doing. My goal is to post multiple projects on this website and continue to display some of the work I have been doing. 
+
+![](picture.jpg)
