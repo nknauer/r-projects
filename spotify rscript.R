@@ -219,5 +219,5 @@ sentiment_filtered <- select(withsentiment, NAME, `ARTIST NAME`, `Genius Lyrics 
 colnames(sentiment_filtered)[5] <- "Recent Twitter Sentiment"
 colnames(sentiment_filtered)[4] <- "Twitter Name"
 sentiment_filtered$`Recent Twitter Sentiment`<-as.numeric(sentiment_filtered$`Recent Twitter Sentiment`)
-
+setwd("C:/Users/nickk/OneDrive/Documents/website/r-projects")
 write_csv(sentiment_filtered,"testing.csv")
