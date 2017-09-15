@@ -5,6 +5,7 @@ library(dplyr)
 library(twitteR)
 library(syuzhet)
 library(scales)
+library(readr)
 
 spotifyKey <- "c432b36c21724d2989baf7d4d8a6bfd3"
 spotifySecret <- "047d74d4926c44ec8681c236d702dff9"
