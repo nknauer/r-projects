@@ -1,5 +1,14 @@
 ---
-title: "Shiny Apps"
+title: "Shiny App"
 ---
+
+- __Name:__ Nick Knauer
+- __Email:__ nickknauer1@gmail.com
+- __Hometown:__ Greater New York City Area
+- __School:__ Penn State University
+- __Occupation:__ Senior Analyst, Advanced Analytics
+- __Industry:__ Advertising/Marketing
+
+I have been programming in R since 2014 and have enjoyed what this language is capable of doing. My goal is to post multiple projects on this website and continue to display some of the work I have been doing. 
 
 [Interactive Song Clustering App](http://138.197.10.7:3838/interactive_song_clustering/)
