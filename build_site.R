@@ -6,4 +6,5 @@ setwd("~/website/r-projects")
 
 #render your sweet site. 
 rmarkdown::render_site()
-
+blogdown::serve_site()
+blogdown::html_page()
