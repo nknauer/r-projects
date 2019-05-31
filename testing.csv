@@ -1,34 +1,53 @@
 NAME,ARTIST NAME,Genius Lyrics Link,Twitter Name,Recent Twitter Sentiment
-Lost in the Fire (feat. The Weeknd),"Gesaffelstein, The Weeknd",https://genius.com/Gesaffelstein-and-the-weeknd-lost-in-the-fire-lyrics,No Twitter Name,-0.21042105263157895
-Dancing With A Stranger (with Normani),"Sam Smith, Normani",https://genius.com/Sam-smith-and-normani-dancing-with-a-stranger-lyrics,No Twitter Name,0.08438356164383562
-Jumpin on a Jet,Future,https://genius.com/Future-jumpin-on-a-jet-lyrics,1future,0.45212201591511936
-Nights Like This (feat. Ty Dolla $ign),"Kehlani, Ty Dolla $ign",https://genius.com/Kehlani-nights-like-this-lyrics,kehlanimusic,0.30501474926253686
-hope is a dangerous thing for a woman like me to have - but I have it,Lana Del Rey,https://genius.com/Lana-del-rey-hope-is-a-dangerous-thing-for-a-woman-like-me-to-have-but-i-have-it-lyrics,lanadelrey,0.20965250965250964
-ONMYGRANNYKIDS,Comethazine,https://genius.com/Comethazine-onmygrannykids-lyrics,No Twitter Name,0.1302461139896373
-I BE DAMNED,Comethazine,https://genius.com/Comethazine-i-be-damned-lyrics,No Twitter Name,0.1302461139896373
-BENJAMIN COUNTER,Comethazine,https://genius.com/Comethazine-benjamin-counter-lyrics,No Twitter Name,0.1302461139896373
-NONSENSE,Comethazine,https://genius.com/Comethazine-nonsense-lyrics,No Twitter Name,0.1302461139896373
-HIPPOPOTAMUS,Comethazine,https://genius.com/Comethazine-hippopotamus-lyrics,No Twitter Name,0.1302461139896373
-HOW DO YOU DO?,Comethazine,https://genius.com/Comethazine-how-do-you-do-lyrics,No Twitter Name,0.1302461139896373
-4 POUND,Comethazine,https://genius.com/Comethazine-4-pound-lyrics,No Twitter Name,0.1302461139896373
-GUSHER GUTS,Comethazine,https://genius.com/Comethazine-gusher-guts-lyrics,No Twitter Name,0.1302461139896373
-DEMAR DEROZAN,Comethazine,https://genius.com/Comethazine-demar-derozan-lyrics,No Twitter Name,0.1302461139896373
-This Land,Gary Clark Jr.,https://genius.com/Gary-clark-jr-this-land-lyrics,GaryClarkJr,0.22489331436699858
-Let Me Down Slowly (feat. Alessia Cara),"Alec Benjamin, Alessia Cara",https://genius.com/Alec-benjamin-let-me-down-slowly-remix-lyrics,alecbenjamin,0.14436383928571428
-Saturday Nights REMIX (feat. Kane Brown),"Khalid, Kane Brown",https://genius.com/Khalid-saturday-nights-remix-lyrics,thegreatkhalid,0.023653846153846154
-No Stone Unturned,Randy Houser,https://genius.com/Randy-houser-no-stone-unturned-lyrics,RandyHouser,0.4373762376237624
-Our Hearts (feat. Lucie Silvas),"Randy Houser, Lucie Silvas",https://genius.com/Randy-houser-our-hearts-lyrics,RandyHouser,0.4373762376237624
-What Whiskey Does (feat. Hillary Lindsey),"Randy Houser, Hillary Lindsey",https://genius.com/Randy-houser-what-whiskey-does-lyrics,RandyHouser,0.4373762376237624
-Whole Lotta Quit,Randy Houser,https://genius.com/Randy-houser-whole-lotta-quit-lyrics,RandyHouser,0.4373762376237624
-No Good Place to Cry,Randy Houser,https://genius.com/Randy-houser-no-good-place-to-cry-lyrics,RandyHouser,0.4373762376237624
-New Buzz,Randy Houser,https://genius.com/Randy-houser-new-buzz-lyrics,RandyHouser,0.4373762376237624
-Nothin' On You,Randy Houser,https://genius.com/Randy-houser-nothin-on-you-lyrics,RandyHouser,0.4373762376237624
-What Leaving Looks Like,Randy Houser,https://genius.com/Randy-houser-what-leaving-looks-like-lyrics,RandyHouser,0.4373762376237624
-High Time,Randy Houser,https://genius.com/Randy-houser-high-time-lyrics,RandyHouser,0.4373762376237624
-Mamma Don't Know,Randy Houser,https://genius.com/Randy-houser-mamma-dont-know-lyrics,RandyHouser,0.4373762376237624
-Running Man,Randy Houser,https://genius.com/Randy-houser-running-man-lyrics,RandyHouser,0.4373762376237624
-Evangeline,Randy Houser,https://genius.com/Randy-houser-evangeline-lyrics,RandyHouser,0.4373762376237624
-Dead End,Anna Clendening,https://genius.com/Anna-clendening-dead-end-lyrics,annaclendening,0.37727272727272726
-Invisible,Anna Clendening,https://genius.com/Anna-clendening-invisible-lyrics,annaclendening,0.37727272727272726
-Seventeen,Sharon Van Etten,https://genius.com/Sharon-van-etten-seventeen-lyrics,sharonvanetten,0.3589395807644883
-Dirty,Tank,https://genius.com/Tank-dirty-lyrics,therealtank,0.10829177057356609
+Never Really Over,Katy Perry,https://genius.com/Katy-perry-never-really-over-lyrics,katyperry,0.267741935483871
+Press,Cardi B,https://genius.com/Cardi-b-press-lyrics,iamcardib,0.10207736389684814
+Mother's Daughter,Miley Cyrus,https://genius.com/Miley-cyrus-mothers-daughter-lyrics,MileyCyrus,0.2523913043478261
+Unholy,Miley Cyrus,https://genius.com/Miley-cyrus-unholy-lyrics,MileyCyrus,0.2523913043478261
+Cattitude (feat. RuPaul),"Miley Cyrus, RuPaul",https://genius.com/Miley-cyrus-cattitude-lyrics,MileyCyrus,0.2523913043478261
+Party Up The Street,"Miley Cyrus, Swae Lee, Mike WiLL Made-It",https://genius.com/Miley-cyrus-swae-lee-and-mike-will-made-it-party-up-the-street-lyrics,No Twitter Name,0.2523913043478261
+The Most,Miley Cyrus,https://genius.com/Miley-cyrus-the-most-lyrics,MileyCyrus,0.2523913043478261
+Callaita,"Bad Bunny, Tainy",https://genius.com/Bad-bunny-and-tainy-callaita-lyrics,No Twitter Name,-0.5930232558139534
+Up,Thomas Rhett,https://genius.com/Thomas-rhett-call-me-up-lyrics,thomasrhett,0.54288824383164
+Don’t Threaten Me With A Good Time,"Thomas Rhett, Little Big Town",https://genius.com/Thomas-rhett-dont-threaten-me-with-a-good-time-lyrics,thomasrhett,0.54288824383164
+Blessed,Thomas Rhett,https://genius.com/Thomas-rhett-blessed-lyrics,thomasrhett,0.54288824383164
+Look What God Gave Her,Thomas Rhett,https://genius.com/Thomas-rhett-look-what-god-gave-her-lyrics,thomasrhett,0.54288824383164
+Center Point Road,"Thomas Rhett, Kelsea Ballerini",https://genius.com/Thomas-rhett-center-point-road-lyrics,thomasrhett,0.54288824383164
+That Old Truck,Thomas Rhett,https://genius.com/Thomas-rhett-that-old-truck-lyrics,thomasrhett,0.54288824383164
+VHS,Thomas Rhett,https://genius.com/Thomas-rhett-vhs-lyrics,thomasrhett,0.54288824383164
+Notice,Thomas Rhett,https://genius.com/Thomas-rhett-notice-lyrics,thomasrhett,0.54288824383164
+Sand,Thomas Rhett,https://genius.com/Thomas-rhett-sand-lyrics,thomasrhett,0.54288824383164
+Beer Can’t Fix,"Thomas Rhett, Jon Pardi",https://genius.com/Thomas-rhett-beer-cant-fix-lyrics,thomasrhett,0.54288824383164
+Things You Do For Love,Thomas Rhett,https://genius.com/Thomas-rhett-things-you-do-for-love-lyrics,thomasrhett,0.54288824383164
+Remember You Young,Thomas Rhett,https://genius.com/Thomas-rhett-remember-you-young-lyrics,thomasrhett,0.54288824383164
+Don’t Stop Drivin’,Thomas Rhett,https://genius.com/Thomas-rhett-dont-stop-drivin-lyrics,thomasrhett,0.54288824383164
+Barefoot,Thomas Rhett,https://genius.com/Thomas-rhett-barefoot-lyrics,thomasrhett,0.54288824383164
+Dream You Never Had,Thomas Rhett,https://genius.com/Thomas-rhett-dream-you-never-had-lyrics,thomasrhett,0.54288824383164
+Almost,Thomas Rhett,https://genius.com/Thomas-rhett-almost-lyrics,thomasrhett,0.54288824383164
+Envy Me,Calboy,https://genius.com/Calboy-envy-me-lyrics,No Twitter Name,0.07747625508819539
+Love Me,Calboy,https://genius.com/Calboy-love-me-lyrics,No Twitter Name,0.07747625508819539
+Ghetto America (feat. Yo Gotti & Lil Durk),"Calboy, Yo Gotti, Lil Durk",https://genius.com/Calboy-ghetto-america-lyrics,No Twitter Name,0.07747625508819539
+Nina,Calboy,https://genius.com/Calboy-nina-lyrics,No Twitter Name,0.07747625508819539
+Swing,Calboy,https://genius.com/Calboy-swing-lyrics,No Twitter Name,0.07747625508819539
+12,Calboy,https://genius.com/Calboy-12-lyrics,No Twitter Name,0.07747625508819539
+ZUU,Denzel Curry,https://genius.com/Denzel-curry-zuu-lyrics,denzelcurry,0.2977438136826783
+RICKY,Denzel Curry,https://genius.com/Denzel-curry-ricky-lyrics,denzelcurry,0.2977438136826783
+WISH Feat. Kiddo Marv,"Denzel Curry, Kiddo Marv",https://genius.com/Denzel-curry-wish-lyrics,denzelcurry,0.2977438136826783
+BIRDZ Feat. Rick Ross,"Denzel Curry, Rick Ross",https://genius.com/Denzel-curry-birdz-lyrics,denzelcurry,0.2977438136826783
+AUTOMATIC,"Denzel Curry, Tay Keith",https://genius.com/Denzel-curry-and-tay-keith-automatic-lyrics,No Twitter Name,0.2977438136826783
+SPEEDBOAT,Denzel Curry,https://genius.com/Denzel-curry-speedboat-lyrics,denzelcurry,0.2977438136826783
+BUSHY B INTERLUDE,Denzel Curry,https://genius.com/Denzel-curry-bushy-b-interlude-lyrics,denzelcurry,0.2977438136826783
+YOO,Denzel Curry,https://genius.com/Denzel-curry-yoo-lyrics,denzelcurry,0.2977438136826783
+CAROLMART Feat. Ice Billion Berg,"Denzel Curry, Ice Billion Berg",https://genius.com/Denzel-curry-carolmart-lyrics,denzelcurry,0.2977438136826783
+SHAKE 88 Feat. Sam Sneak,"Denzel Curry, Sam Sneak",https://genius.com/Denzel-curry-shake-88-lyrics,denzelcurry,0.2977438136826783
+BLACKLAND 66.6,Denzel Curry,https://genius.com/Denzel-curry-blackland-666-lyrics,denzelcurry,0.2977438136826783
+P.A.T. Feat. PlayThatBoiZay,"Denzel Curry, PlayThatBoiZay",https://genius.com/Denzel-curry-pat-lyrics,denzelcurry,0.2977438136826783
+Love Yourself,Sufjan Stevens,https://genius.com/Sufjan-stevens-love-yourself-lyrics,No Twitter Name,0.33406801007556675
+Love Yourself (1996 Demo),Sufjan Stevens,https://genius.com/Sufjan-stevens-love-yourself-1996-demo-lyrics,No Twitter Name,0.33406801007556675
+With My Whole Heart,Sufjan Stevens,https://genius.com/Sufjan-stevens-with-my-whole-heart-lyrics,No Twitter Name,0.33406801007556675
+Love Yourself (Short Reprise),Sufjan Stevens,https://genius.com/Sufjan-stevens-love-yourself-short-reprise-lyrics,No Twitter Name,0.33406801007556675
+Sad Forever,Lauv,https://genius.com/Lauv-sad-forever-lyrics,lauvsongs,0.19451097804391218
+Cheap Queen,King Princess,https://genius.com/King-princess-cheap-queen-lyrics,KingPrincess69,0.8335995085995086
+All My Friends,Madeon,https://genius.com/Madeon-all-my-friends-lyrics,madeon,0.45734463276836157
+Kills You Slowly,The Chainsmokers,https://genius.com/The-chainsmokers-kills-you-slowly-lyrics,thechainsmokers,0.17962962962962964
+Stronger,Raveena,https://genius.com/Raveena-stronger-lyrics,raveena_aurora,0.4123936816524909
+Mama,Raveena,https://genius.com/Raveena-mama-lyrics,raveena_aurora,0.4123936816524909
